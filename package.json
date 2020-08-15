@@ -1,0 +1,13 @@
+{
+  "name": "cpa",
+  "version": "1.0.0",
+  "author": "KrimsitStudio",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Krimsit/CPLA"
+  }
+}
